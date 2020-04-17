@@ -7,7 +7,7 @@ Designed the differential drive robot, house it inside created world, and progra
 3. Rviz integration for visualization
 4. Importing the my_house designed using gazebo
 5. writing drive node and image process node in cpp
-6. Finally, made the robot to the follow white color ball.
+6. Finally, made the robot to the follow white color ball
 
 **Images**
 **Ball with robot**
