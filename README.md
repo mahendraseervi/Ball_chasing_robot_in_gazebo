@@ -9,7 +9,7 @@ Designed the differential drive robot, house it inside created world, and progra
 5. writing drive node and image process node in cpp
 6. Finally, made the robot to the follow white color ball
 
-## Images
+## Images :
 **Ball with robot**
 ![](images/ball_with_robot.png)
 
