@@ -2,7 +2,7 @@
 Designed the differential drive robot, house it inside created world, and programmed it to chase white-colored ball.
 
 ## Project Aim :
-1. Setting up my_robot (urdf of the robot  model)
+1. Setting up my_robot - differential drive robot (building urdf of the robot  model)
 2. setting up sensors and actuators (camera, lidar and differential drive plugin)
 3. Rviz integration for visualization
 4. Importing the my_house designed using gazebo
