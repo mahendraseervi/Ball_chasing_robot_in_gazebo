@@ -10,12 +10,12 @@ Designed the differential drive robot, house it inside created world, and progra
 6. Finally, made the robot to the follow white color ball
 
 ## Images :
-**Ball with robot**
+### Ball with robot :
 ![](images/ball_with_robot.png)
 
-**Differential drive robot with camera and Lidar**
+### Differential drive robot with camera and Lidar :
 ![](images/diff_robot.png)
 
-**Importing my_house to the world**
+### Importing my_house to the world :
 ![](images/my_house.png)
 
