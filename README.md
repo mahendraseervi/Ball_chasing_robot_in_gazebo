@@ -1,5 +1,5 @@
 # Ball_chasing_robot_in_gazebo
-Designed the differential drive robot, house it inside created world, and programmed it to chase white-colored ball.
+Designed the differential drive robot, house it inside created world, and programmed it to chase white-colored ball
 
 ## Project Aim :
 1. Setting up my_robot - differential drive robot (building urdf of the robot  model)
